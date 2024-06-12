@@ -7,13 +7,12 @@ This project consists of several Python scripts designed to process and transfor
 - Python 3.6+
 - pandas
 - numpy
-- requests
-- requests_oauthlib
-- oauthlib
+- datetime
+- os
 
 You can install the required Python packages using the following command:
 
-pip install pandas numpy requests requests_oauthlib oauthlib
+pip install pandas numpy
 
 # Files
 - main.ipynb: This Jupyter Notebook contains the primary script for processing the CF item data. The script is divided into multiple code cells, each performing specific tasks.
